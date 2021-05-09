@@ -7,5 +7,5 @@ int main()
   printf("manoher");
   printf("jabida");
   printf("bharath");
-  
+  printf("trainee");
 }
