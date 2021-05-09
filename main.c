@@ -6,5 +6,6 @@ int main()
   printf("sashider\n");
   printf("manoher");
   printf("jabida");
+  printf("preshant\n");
   
 }
