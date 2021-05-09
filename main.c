@@ -6,6 +6,11 @@ int main()
   printf("sashider\n");
   printf("manoher");
   printf("jabida");
+
   printf("bharath");
   printf("trainee");
+
+  printf("preshant\n");
+  
+
 }
